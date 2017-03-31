@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Tadimy",
+      "authorEmail": "toleranthink@gmail.com",
+      "authorUrl": "https://github.com/tadimy"
+    }
+  }
+}
