@@ -1,6 +1,6 @@
 {
   "name": "generator-mpa-webpack-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A generator for multiple page application",
   "homepage": "github.com",
   "author": {
