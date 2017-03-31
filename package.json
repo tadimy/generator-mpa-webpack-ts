@@ -1,6 +1,6 @@
 {
   "name": "generator-mpa-webpack-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A generator for multiple page application",
   "homepage": "github.com",
   "author": {
@@ -23,6 +23,7 @@
     "nsp": "^2.6.3",
     "eslint": "^3.18.0",
     "eslint-config-xo-space": "^0.16.0",
+    "eslint-config-defaults": "^9.0.0",
     "jest": "^19.0.2",
     "jest-cli": "^19.0.1"
   },
@@ -36,7 +37,7 @@
   },
   "scripts": {
     "prepublish": "nsp check",
-    "pretest": "eslint . --ignore-path .gitignore --fix",
+    "pretest": "eslint . --ignore-path .eslintignore --fix",
     "test": "jest"
   },
   "eslintConfig": {
