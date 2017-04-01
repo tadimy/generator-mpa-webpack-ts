@@ -2,7 +2,7 @@
   "name": "generator-mpa-webpack-ts",
   "version": "1.0.1",
   "description": "A generator for multiple page application",
-  "homepage": "github.com",
+  "homepage": "https://github.com/tadimy/generator-mpa-webpack-ts",
   "author": {
     "name": "Tadimy",
     "email": "toleranthink@gmail.com",
